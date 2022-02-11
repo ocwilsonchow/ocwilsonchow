@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ocwilsonchow
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me? Go to ocwilsonchow.com
 
