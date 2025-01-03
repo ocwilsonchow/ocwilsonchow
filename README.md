@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ocwilsonchow
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I have been working as a Frontend Developer for 3 years
+- 💞️ Building beautiful software is my passion
 - 📫 How to reach me? Go to ocwilsonchow.com
 
 <!---
