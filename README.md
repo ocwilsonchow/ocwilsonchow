@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ocwilsonchow
 - 🌱 I have been working as a Frontend Developer for 3 years
 - 💞️ Building beautiful software is my passion
-- 📫 How to reach me? Go to ocwilsonchow.com
 
 <!---
 ocwilsonchow/ocwilsonchow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
